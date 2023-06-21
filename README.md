@@ -6,5 +6,5 @@
 <p>
   MCBE server & Unity game developer!
 </p>
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyee2913&show_icons=true&theme=shadow_red)
