@@ -1,1 +1,1 @@
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank" style="background-color: lightgreen; font-size: 20px; text-decoration: none; color: gray;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQVsYYtGSZEFKeqJUT9fSNxZreVkRNN0WEIX0onoIBM5K72Qgy7a49j-s9mayj6VH&usqp=CAU" width="30px" height="30px" style="position: relative; top: 6px;"/> My MCPEDL! </a>
+ [![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQVsYYtGSZEFKeqJUT9fSNxZreVkRNN0WEIX0onoIBM5K72Qgy7a49j-s9mayj6VH&usqp=CAU) My MCPEDL!](버튼을 눌렀을 때 이동할 링크)
