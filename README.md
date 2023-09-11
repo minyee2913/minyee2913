@@ -9,4 +9,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyee2913&show_icons=true&theme=shadow_red)
 <br>
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/minyee2913/minyee2913)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyee2913&langs_count=10&layout=compact&theme=white)](https://github.com/minyee2913/minyee2913)
