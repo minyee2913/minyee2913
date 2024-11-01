@@ -10,4 +10,4 @@
 <br>
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyee2913&langs_count=10&layout=compact&theme=white)](https://github.com/minyee2913/minyee2913)
 
-https://drive.google.com/file/d/1VyaXTQZRjz7Y1UYBczNF-pzgN4dTIvW0/view?usp=sharing
+https://github.com/jungwook123/Ssf/releases/tag/0.0.1.Codeless
